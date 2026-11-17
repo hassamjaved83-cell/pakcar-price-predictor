@@ -1,0 +1,405 @@
+feature,importance
+num__abs,0.39588127
+num__cruise_control,0.18823199
+num__air_bags,0.06520437
+num__immobilizer_key,0.046692457
+num__push_start,0.029819885
+num__engine_cc,0.019115357
+num__rear_ac_vents,0.0151316635
+cat__brand_Suzuki,0.014762862
+cat__variant_2.5,0.011478937
+num__year,0.010314441
+cat__brand_Toyota,0.009094645
+cat__variant_1.2L CVT,0.0077340268
+cat__body_type_Double Cabin,0.0060488908
+cat__variant_Cross,0.0056211157
+cat__variant_VXR,0.0056162635
+cat__model_Alsvin,0.005381556
+cat__variant_Revo V,0.0049593695
+cat__body_type_Compact SUV,0.004351954
+cat__body_type_Crossover,0.0042000497
+cat__variant_Limited Edition,0.0041507785
+num__head_up_display_(hud),0.003938542
+cat__body_type_SUV,0.0038662597
+cat__model_Civic,0.0036067509
+cat__model_Fortuner,0.0035274236
+num__panoramic_sunroof,0.0034938823
+cat__body_type_Sedan,0.0033556381
+cat__model_Hilux,0.0032244953
+cat__model_Yaris,0.0031166107
+cat__variant_Premium FWD,0.0030287704
+num__apple_carplay,0.0029723046
+cat__brand_Proton,0.0028229244
+cat__variant_VXL AGS,0.0026535848
+num__paddle_shifters,0.002624782
+cat__variant_EURO II,0.0025237328
+num__power_mirrors,0.0024418607
+num__front_camera,0.0022705027
+cat__variant_VXL (CNG),0.0021301126
+cat__brand_Changan,0.0020427771
+cat__model_Picanto,0.0019930971
+cat__brand_Honda,0.0018132064
+num__front_speakers,0.0017139515
+cat__model_Cultus,0.0016255131
+cat__model_City,0.0016059498
+cat__brand_KIA,0.0016047606
+cat__model_Sonata,0.0016005404
+num__360_camera,0.0015510438
+cat__body_type_Truck,0.0014720965
+cat__model_Corolla,0.0013833977
+num__traction_control,0.0013715056
+num__parking_sensors,0.0013617771
+cat__brand_MG,0.0013363457
+cat__variant_DLX 1.3,0.0012891685
+cat__model_Oshan,0.0012851586
+cat__body_type_Compact sedan,0.0012615074
+cat__model_Karvaan,0.0012495463
+cat__body_type_Mini Van,0.0011990969
+cat__model_Khyber,0.0011969781
+cat__model_X70,0.0011850783
+num__heated_seats,0.0011076397
+cat__variant_GLX CVT,0.001063984
+cat__variant_Base Model 1.0,0.0010269477
+num__power_steering,0.0010002257
+cat__variant_Auto Gear Shift,0.000990644
+cat__model_HS,0.0009822291
+num__power_locks,0.0009807781
+cat__brand_Hyundai,0.0009805192
+cat__variant_GLS,0.00095858535
+cat__model_Saga,0.00095537154
+num__power_seats,0.00093035196
+cat__model_Wagon,0.00086361344
+cat__variant_Altis 1.6 X CVT-i,0.0008608293
+cat__model_Sorento,0.00081800035
+cat__variant_Tiger,0.00079776824
+cat__model_Stonic,0.0007089626
+cat__model_infrequent_sklearn,0.00070505287
+cat__variant_GLi 1.3 VVTi,0.00070334924
+num__air_conditioning,0.0006922059
+cat__variant_infrequent_sklearn,0.00069002976
+cat__model_Mehran,0.0006622714
+cat__variant_VXL AGS Upgraded,0.0006485713
+cat__model_Alto,0.0006433572
+cat__variant_Trophy,0.0006352939
+cat__assembly_Imported,0.00060896727
+cat__registered_city_Islamabad,0.0005841413
+cat__variant_N Line 2.5 Turbo,0.000572415
+cat__registered_city_Un-Registered,0.00057185965
+cat__registered_city_Karachi,0.0005665628
+cat__variant_RS,0.0005620282
+num__rear_camera,0.00055579684
+cat__body_type_Hatchback,0.00055209245
+num__sun_roof,0.0005403371
+cat__variant_Revo V Automatic 2.8,0.0005310161
+num__alloy_wheels,0.00053025264
+cat__variant_GLi Automatic 1.3 VVTi,0.0005208718
+cat__variant_VXRi,0.0005080551
+num__drls,0.0005033101
+cat__registered_city_Sindh,0.00047161255
+num__rear_speakers,0.00046640798
+cat__model_Margalla,0.0004440166
+cat__variant_1.0 MT,0.00043557497
+num__front_fog_lights,0.00043151175
+cat__variant_GL CVT,0.00041203888
+cat__variant_Unknown,0.0004097249
+num__steering_switches,0.00040664885
+cat__variant_Legender,0.00040283665
+cat__variant_R VXL,0.0004014202
+cat__variant_Double Cab,0.00039884422
+cat__brand_infrequent_sklearn,0.00039712118
+cat__model_Swift,0.0003936483
+cat__variant_PHEV,0.00037580245
+cat__variant_2.8 Sigma 4,0.00037174096
+num__ventilated_seats,0.00036351432
+cat__color_infrequent_sklearn,0.00036282823
+num__keyless_entry,0.00035446257
+cat__variant_G,0.00035212608
+cat__variant_GA,0.0003484654
+cat__assembly_Local,0.00034690392
+cat__variant_Altis Automatic 1.6,0.0003467243
+cat__registered_city_Rawalpindi,0.0003439573
+cat__variant_1.3 i-VTEC Prosmatec,0.00032834758
+cat__body_type_Unknown,0.00032333954
+cat__variant_SE Limited,0.00031539865
+num__tyre_pressure_monitoring_system_(tpms),0.00030382074
+cat__variant_1.5L ASPIRE CVT,0.00029972027
+cat__color_Black,0.00029814802
+cat__variant_VX,0.00029567242
+cat__model_Elantra,0.0002950333
+num__climate_control,0.0002933363
+cat__variant_Hatchback,0.00027237926
+cat__registered_city_Faisalabad,0.0002698082
+cat__model_Santa,0.0002626585
+num__infotainment_system,0.0002588257
+cat__variant_Black Edition,0.00025804344
+cat__variant_1.3 i-VTEC,0.00025575495
+cat__color_Green,0.00025036797
+cat__color_Maroon,0.00022782625
+cat__variant_Hybrid,0.00022604113
+cat__variant_2.7 G,0.00022342296
+cat__variant_DLX Automatic 1.3 Navigation,0.00022254857
+cat__variant_2.0,0.00021599683
+cat__color_Red,0.00021368748
+cat__variant_GII,0.00021024629
+cat__variant_LX Limited 1.3,0.00020949842
+cat__variant_SE Saloon,0.00020813313
+cat__color_Beige,0.00020547434
+cat__color_Golden,0.00020347332
+cat__body_type_Station Wagon,0.00020175407
+cat__variant_3.5 FWD,0.0001997075
+num__led_headlights,0.00019940853
+cat__color_Sliver,0.00018872513
+cat__variant_Sedan ATIV X CVT 1.5,0.00018851589
+cat__registered_city_Mardan,0.00018844205
+cat__variant_Fe Signature,0.00018732103
+cat__variant_VXR (CNG),0.00018696827
+num__android_auto,0.00018561937
+cat__color_Navy,0.00018312395
+cat__variant_Altis X Automatic 1.6,0.00017879813
+cat__variant_i-VTEC S,0.00017732906
+cat__variant_1.6T HEV AWD,0.00017507828
+cat__variant_Z,0.00017502939
+cat__registered_city_Peshawar,0.0001742826
+cat__variant_Altis SR Cruisetronic 1.6,0.0001720765
+cat__variant_XE,0.000167722
+cat__variant_VXLi,0.00016752644
+cat__variant_X,0.00016351943
+cat__variant_2.4 FWD,0.00016082417
+cat__registered_city_infrequent_sklearn,0.0001604899
+cat__registered_city_Multan,0.0001593118
+cat__variant_ECO-L,0.00015819941
+cat__color_Pearl Black,0.00015696956
+cat__color_Burgundy,0.00015530031
+cat__variant_R,0.00015454843
+cat__variant_R Hybrid FX,0.00015437821
+cat__variant_1.5L DCT Comfort,0.00015394592
+cat__variant_i-VTEC MT,0.00015308277
+cat__variant_VXL,0.00015128551
+cat__variant_TURBO RS,0.00015114933
+cat__registered_city_Lahore,0.00014904155
+cat__variant_Altis Automatic 1.8,0.00014869282
+cat__variant_Hybrid S LED,0.00014861839
+cat__variant_S LED Soft Leather Selection,0.00014680854
+cat__model_BR-V,0.00014587112
+cat__variant_Cross 1.8 X,0.00014322119
+cat__color_Unlisted,0.00014319266
+cat__variant_Axio X 1.5,0.00014230204
+cat__variant_AWD A/T Ultimate,0.00013988114
+cat__variant_Hybrid S,0.00013923777
+cat__variant_Revo GR Sport,0.00013916004
+cat__variant_GLi Limited Edition 1.3 VVTi,0.00013760809
+cat__color_Pearl White,0.0001366999
+cat__registered_city_Abbottabad,0.00013578765
+cat__variant_i-DSI,0.00013277141
+cat__model_Aqua,0.00013232458
+cat__color_Grey,0.00013192075
+cat__variant_GLi Automatic 1.6 VVTi,0.00013074723
+cat__variant_Altis Grande CVT-i 1.8,0.00013074228
+cat__variant_R AGS,0.00012962197
+cat__model_Sportage,0.00012696865
+cat__variant_R VXR,0.00012642301
+cat__registered_city_Punjab,0.000121989135
+cat__variant_Plus,0.000120786695
+cat__variant_DLX 1.3 Navigation,0.00012058058
+cat__variant_Hybrid+,0.00012041023
+cat__body_type_MPV,0.00012021357
+cat__brand_Daihatsu,0.00012010436
+cat__variant_EXi Prosmatec,0.00012007867
+cat__color_Blue,0.00011924942
+cat__color_Snow White,0.00011895728
+cat__color_Silver,0.00011837018
+cat__variant_E Manual,0.00011805927
+cat__variant_Plus 1.2,0.000115010465
+cat__variant_1.3L MT Comfort,0.00011356169
+cat__variant_EX+,0.00011343485
+cat__variant_XLi,0.00011267751
+cat__variant_VXLi (CNG),0.00011230885
+cat__registered_city_Mandi bahauddin,0.000111470596
+cat__variant_SE Saloon Automatic,0.00011136902
+cat__color_Silky Silver Metallic,0.00010723072
+cat__variant_Axio Hybrid 1.5,0.000106468244
+cat__variant_E,0.000106189254
+cat__variant_Altis 1.6,0.00010375518
+cat__variant_AWD,0.000103400074
+cat__variant_EII,0.00010325675
+cat__body_type_Pick Up,0.00010240872
+cat__variant_S,0.00010150536
+cat__variant_DLX Automatic 1.3,0.000100922574
+cat__color_White,0.00010014379
+cat__variant_VXRi (CNG),9.951597e-05
+cat__variant_2.0D,9.913926e-05
+cat__color_Graphite Grey,9.7413424e-05
+cat__registered_city_Gujrat,9.7332544e-05
+cat__color_Turquoise,9.373832e-05
+cat__color_Jet Grey,9.229263e-05
+cat__variant_1.5L DCT Lumiere,9.105867e-05
+cat__variant_1.0 AT,9.066128e-05
+cat__variant_EXi,9.029431e-05
+cat__variant_VTi Oriel Prosmatec 1.8 i-VTEC,9.014768e-05
+cat__variant_GLi Automatic Limited Edition 1.6 VVTi,8.981643e-05
+cat__variant_Hybrid Signature,8.9385976e-05
+cat__body_type_Mini Vehicles,8.538011e-05
+cat__variant_GS,8.516884e-05
+cat__variant_VXR AGS,8.469184e-05
+cat__color_Silky Silver,8.45384e-05
+cat__variant_Cross 1.8 HEV,8.409506e-05
+cat__color_Gold,8.4066254e-05
+cat__variant_X7 FutureSense,8.37568e-05
+cat__variant_Sedan GLI MT 1.3,8.375644e-05
+cat__variant_Cross Hybrid Z,8.374789e-05
+cat__variant_D-4D Automatic,8.3393716e-05
+cat__variant_Altis Grande X CVT-i 1.8 Black Interior,8.314976e-05
+cat__model_Prius,8.2130515e-05
+cat__color_Sand Beige,8.158318e-05
+cat__variant_2.7 VVTi,8.0412115e-05
+cat__variant_Altis 1.6 X CVT-i Special Edition,8.016112e-05
+cat__variant_Oriel 1.8 i-VTEC CVT,7.887197e-05
+cat__variant_Lapin X,7.795281e-05
+cat__variant_Cross Premium High Grade,7.746439e-05
+cat__variant_Altis Grande X CVT-i 1.8 Beige Interior,7.741379e-05
+cat__variant_F,7.6655815e-05
+cat__variant_Vigo Champ G,7.612034e-05
+cat__variant_XLi VVTi Limited Edition,7.591407e-05
+cat__variant_DX 1.3,7.586715e-05
+cat__registered_city_Bahawalpur,7.561211e-05
+cat__variant_1.3L Standard A/T,7.518591e-05
+cat__variant_Revo V Automatic 3.0,7.511354e-05
+cat__color_Solid White,7.464375e-05
+cat__variant_VXR Upgraded,7.462318e-05
+cat__variant_Altis CVT-i 1.8,7.4224685e-05
+cat__variant_1.5 RS Turbo,7.383158e-05
+cat__variant_1.5 i-VTEC,7.331489e-05
+cat__variant_1.5 Turbo,7.328817e-05
+cat__color_Black Diamond,7.266814e-05
+cat__variant_Sedan ATIV MT 1.3,7.20289e-05
+cat__variant_G4,7.100437e-05
+cat__color_Ruby Red,7.088278e-05
+cat__variant_R Hybrid FZ,7.080031e-05
+cat__registered_city_Sialkot,7.079188e-05
+cat__variant_GL,7.0783324e-05
+cat__body_type_Single Cabin,7.056621e-05
+cat__variant_Turbo 1.5 VTEC CVT,7.001282e-05
+cat__color_Pink,6.825244e-05
+cat__variant_i-VTEC,6.75307e-05
+cat__variant_Essence,6.603208e-05
+cat__variant_1.3L Ace A/T,6.5909364e-05
+cat__variant_Aspire 1.5 i-VTEC,6.558439e-05
+cat__color_Dark Blue,6.534658e-05
+cat__variant_Alpha,6.521166e-05
+cat__variant_Aspire 1.3 i-VTEC,6.477116e-05
+cat__variant_2.0 Limited Edition,6.395751e-05
+cat__variant_XLi VVTi,6.334121e-05
+cat__variant_R FX,6.281433e-05
+cat__color_Brown,6.280186e-05
+cat__variant_2.7 V,6.210678e-05
+cat__color_Space Gray,6.199173e-05
+cat__variant_Aspire Prosmatec 1.5 i-VTEC,6.19417e-05
+cat__variant_EX,6.0943927e-05
+cat__variant_Super Hybrid,6.0774764e-05
+cat__variant_XLi Automatic,6.0570448e-05
+cat__variant_Sedan GLI CVT 1.3,6.0530372e-05
+cat__variant_L,5.941967e-05
+cat__variant_i-DSI Vario,5.9292637e-05
+cat__color_Oxford Blue,5.822938e-05
+cat__variant_1.3L Standard M/T,5.8053985e-05
+cat__color_Gun Metallic,5.7409932e-05
+cat__variant_VTi 1.8 i-VTEC,5.731137e-05
+cat__variant_2.4 AWD,5.6289697e-05
+cat__variant_Cross 1.8 HEV X,5.596034e-05
+cat__color_Black Mica,5.5740966e-05
+cat__variant_X7 FutureSense 7 Seat,5.5740446e-05
+cat__color_Black Diamond Metallic,5.5255154e-05
+cat__color_Bronze,5.3936e-05
+cat__variant_FWD A/T GLS,5.3883683e-05
+cat__color_Silver Metallic,5.321441e-05
+cat__color_blue,5.301015e-05
+cat__color_Pearl Red,5.2292216e-05
+cat__color_Blue Metallic,5.2231306e-05
+cat__variant_G LED Soft Leather Selection,5.206997e-05
+cat__color_Attitude Black,5.1576444e-05
+cat__variant_2.0D Saloon,5.110012e-05
+cat__color_Sparkling Silver,5.0625684e-05
+cat__color_Steller White,4.857608e-05
+cat__variant_Hybrid X,4.7780723e-05
+cat__color_Diamond Metallic Black,4.7245572e-05
+cat__color_Mineral Gray,4.6440273e-05
+cat__color_Super White,4.6089943e-05
+cat__variant_FWD,4.5664387e-05
+cat__variant_Executive AWD,4.5517667e-05
+cat__color_Warm Silver,4.464852e-05
+cat__body_type_Coupe,4.351979e-05
+cat__color_Quartz Black,4.232642e-05
+cat__color_Clear White,4.020423e-05
+cat__variant_GLi 1.3,3.9670238e-05
+cat__color_Taffeta White,3.9427243e-05
+cat__color_Medium Silver,3.804185e-05
+cat__variant_ECO-S,3.716656e-05
+cat__variant_VTi Prosmatec 1.8 i-VTEC,3.714891e-05
+cat__color_Crystal Black,3.5925597e-05
+cat__variant_Fe Smart,3.515527e-05
+cat__color_Wine Red,3.4975652e-05
+cat__variant_Euro II (CNG),3.3569013e-05
+cat__variant_Sedan ATIV CVT 1.3,3.2905562e-05
+cat__variant_VX (CNG),3.2752898e-05
+cat__variant_X7 Comfort,3.1205956e-05
+cat__color_Polar White,3.0502233e-05
+cat__registered_city_Gujranwala,3.0165953e-05
+cat__variant_L Upgrade,2.8506058e-05
+cat__color_Crystal Black Pearl,2.8141638e-05
+cat__model_Tucson,2.5919655e-05
+cat__variant_1.3L R3 A/T,2.3136752e-05
+cat__color_Cherry Black,1.7277427e-05
+cat__color_Lunar Silver Metallic,1.7258164e-05
+cat__color_Lunar Silver,1.6182898e-05
+cat__color_Phantom Black,1.4985578e-05
+cat__color_Galaxy Black,1.3599873e-05
+cat__color_Armor Silver,1.2454388e-05
+cat__color_Black Pearl,1.0360738e-05
+cat__color_Fery Red,2.3937648e-06
+cat__variant_Altis 1.8,0.0
+cat__color_Hampton Gray,0.0
+cat__registered_city_Sargodha,0.0
+cat__color_Indigo,0.0
+cat__variant_AWD A/T Ultimate (Black Interior),0.0
+cat__registered_city_Hyderabad,0.0
+cat__color_Grey Graphite,0.0
+cat__variant_Altis SR Cruisetronic 1.8,0.0
+cat__variant_2.0 Limited Edition (Cappuccino Interior),0.0
+cat__color_Black Metallic,0.0
+cat__variant_GLi 1.3 VVTi Special Edition,0.0
+cat__color_Magenta,0.0
+cat__color_Mercury Blue,0.0
+cat__variant_Revo GR-S,0.0
+cat__color_Stellar White,0.0
+cat__color_Super white,0.0
+cat__variant_FWD A/T GLS Sport,0.0
+cat__color_Superia White,0.0
+cat__variant_Fe,0.0
+cat__model_Vezel,0.0
+cat__variant_Oriel Prosmatec UG,0.0
+cat__color_Urban Titanium,0.0
+cat__variant_Lapin G,0.0
+cat__variant_Invincible,0.0
+cat__body_type_infrequent_sklearn,0.0
+cat__color_York white,0.0
+cat__variant_Hatchback X,0.0
+cat__variant_Hatchback G 1.0,0.0
+cat__variant_Revo Rocco,0.0
+cat__color_Space Grey,0.0
+cat__variant_S Package,0.0
+cat__color_Panthera Metal,0.0
+cat__variant_Altis X Automatic 1.6 Special Edition,0.0
+cat__color_Mineral Grey,0.0
+cat__variant_X7,0.0
+cat__color_Neptune Blue,0.0
+cat__variant_Works Edition,0.0
+cat__color_Olive Green,0.0
+cat__variant_Comfort,0.0
+cat__variant_1.2L M/T,0.0
+cat__variant_GR-S,0.0
+cat__variant_VTi Prosmatec 1.6,0.0
+cat__variant_VTi Oriel Prosmatec 1.6,0.0
+cat__variant_VTi Oriel 1.8 i-VTEC,0.0
+cat__variant_VTi Oriel 1.6,0.0
+cat__variant_Cross 1.8,0.0
+cat__variant_R FA,0.0

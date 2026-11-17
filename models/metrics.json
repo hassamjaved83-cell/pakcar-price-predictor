@@ -1,0 +1,11 @@
+{
+  "trained_at": "2026-11-17 20:55",
+  "rows_train": 6221,
+  "rows_test": 1556,
+  "test_r2": 0.9742,
+  "test_mae_pkr": 248632,
+  "test_mape_pct": 8.04,
+  "test_within_10pct": 73.1,
+  "cv5_r2_mean": 0.97,
+  "cv5_r2_std": 0.0125
+}
