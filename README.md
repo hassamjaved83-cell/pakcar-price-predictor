@@ -70,7 +70,8 @@ app/         app.py (Streamlit UI), predict.py (predict from Python)
 ```bash
 git clone https://github.com/hassamjaved83-cell/pakcar-price-predictor.git
 cd pakcar-price-predictor
-pip install -r requirements.txt
+pip install -r requirements.txt        # app only
+pip install -r requirements-dev.txt    # + scraper and tests
 
 # 1. Train (optional: a trained model is already in models/)
 python train.py
