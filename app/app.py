@@ -26,7 +26,12 @@ MODEL_PATH = os.path.join(
     "pak_car_price_xgboost.pkl"
 )
 
-model = joblib.load(MODEL_PATH)
+@st.cache_resource
+def load_model(path):
+    return joblib.load(path)
+
+
+model = load_model(MODEL_PATH)
 
 
 # =========================================================
@@ -38,10 +43,16 @@ DATA_PATH = os.path.join(
     "..",
     "data",
     "processed",
-    "cleaned_cars.xlsx"
+    "cleaned_cars.csv"
 )
 
-df = pd.read_excel(DATA_PATH)
+
+@st.cache_data
+def load_data(path):
+    return pd.read_csv(path)
+
+
+df = load_data(DATA_PATH)
 
 
 # =========================================================
@@ -285,14 +296,10 @@ if st.button(
     use_container_width=True
 ):
 
-    st.write("Prediction button clicked...")
-
     try:
 
         # Build dataframe
         input_df = pd.DataFrame([car_data])
-
-        st.write("Input received:", input_df.shape)
 
         # Make prediction
         prediction = model.predict(input_df)
@@ -307,6 +314,8 @@ if st.button(
             ## 💰 Estimated Market Price
 
             # PKR {prediction:,.0f}
+
+            ### ≈ {prediction / 100_000:,.1f} lakh
             """
         )
 

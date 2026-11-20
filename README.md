@@ -9,6 +9,12 @@ This is a complete machine learning project, from raw web data to a working app:
 3. **Model:** XGBoost regression, trained and tested on held-out data.
 4. **App:** a Streamlit page where you choose a car and get a price estimate.
 
+## Demo
+
+| Choose the car | Get the price |
+|---|---|
+| ![App inputs](docs/demo-inputs.png) | ![Predicted price](docs/demo-result.png) |
+
 ## Results
 
 Measured on **1,556 test cars the model never saw during training** (20% split, `random_state=42`):
