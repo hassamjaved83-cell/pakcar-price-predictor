@@ -7,7 +7,10 @@ This is a complete machine learning project, from raw web data to a working app:
 1. **Scraper:** collects used-car ads from PakWheels with Playwright.
 2. **Cleaning:** turns raw ads into a 50+ column dataset.
 3. **Model:** XGBoost regression, trained and tested on held-out data.
-4. **App:** a Streamlit page where you choose a car and get a price estimate.
+4. **App:** a Streamlit page where you choose a car and get:
+   - the estimated price, with a likely range
+   - **why** that's the price: per-car SHAP explanation of which inputs raised or lowered it
+   - the closest real listings to compare against
 
 ## Demo
 
@@ -74,6 +77,9 @@ python train.py
 
 # 2. Start the app
 streamlit run app/app.py
+
+# 3. Run the tests
+python -m pytest tests -q
 ```
 
 To scrape fresh data, run this first:
