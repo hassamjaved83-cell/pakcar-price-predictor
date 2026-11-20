@@ -2,6 +2,8 @@
 
 Predicts the market price of a used car in Pakistan, in PKR.
 
+**▶ Try it live: [pakcar-price-predictor.streamlit.app](https://pakcar-price-predictor.streamlit.app)**
+
 This is a complete machine learning project, from raw web data to a working app:
 
 1. **Scraper:** collects used-car ads from PakWheels with Playwright.
